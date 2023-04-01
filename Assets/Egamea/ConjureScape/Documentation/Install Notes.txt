@@ -1,0 +1,7 @@
+Install Notes:
+
+To install these assets it is recommended to follow the next steps:
+
+1. Create a new project.
+2. Import the package
+4. Open the sample scene.

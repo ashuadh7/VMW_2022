@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/MainScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/AlternateScene.unity
+    path: Assets/Scenes/ClearSky.unity
     guid: c5414e3269dcdc74e9744b5937f3d2e1
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8c8cc79369628ef4f88ee4d2de6e803b, type: 2}
